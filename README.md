@@ -15,7 +15,7 @@ This is a simple JavaScript-based bubble popping game with a timer. The goal of 
 
 ## Demo
 
-You can play the game live at [Game Demo](https://your-game-demo-url.com).
+You can play the game live at [Game Demo]([https://your-game-demo-url.com](https://jain-rithik.github.io/Bubble-Game/)).
 
 ## Features
 
